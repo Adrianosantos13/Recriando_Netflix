@@ -57,5 +57,12 @@ Menu 1 - header
 }
 
 .header-right img{
-    max-width: 20px;
+    max-width: 15px;
+    cursor: pointer;
+}
+
+.header-right img{
+    cursor: pointer;
+    font-size: 18px;
+   
 }

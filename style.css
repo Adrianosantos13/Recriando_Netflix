@@ -61,8 +61,8 @@ Menu 1 - header
     cursor: pointer;
 }
 
-.header-right img{
+.header-right fa-solid fa-bell{
     cursor: pointer;
-    font-size: 18px;
+    font-size: 100px;
    
 }
